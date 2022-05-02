@@ -1,6 +1,6 @@
 # manzdev-retos-titulo
 
-🌍 **URL del reto**: *https://lenguajejs.com/retos/introduccion/basic-card-html-css/*
+🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
 ## Datos
 
