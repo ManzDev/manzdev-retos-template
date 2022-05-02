@@ -13,7 +13,7 @@
     "eslint": "^8.14.0",
     "eslint-config-standard": "17.0.0-1",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-n": "@14.0.0",
+    "eslint-plugin-n": "14.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "gh-pages": "^3.2.3",
     "postcss": "^8.4.13",
@@ -22,7 +22,7 @@
     "postcss-nesting": "^10.1.4",
     "postcss-styled": "^0.34.0",
     "postcss-syntax": "^0.36.2",
-    "stylelint": "@14.6.1",
+    "stylelint": "14.6.1",
     "stylelint-config-standard": "^25.0.0",
     "vite": "^2.9.5"
   },
